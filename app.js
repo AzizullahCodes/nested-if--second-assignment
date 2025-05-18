@@ -39,13 +39,18 @@
         // else{alert('Invalid age');}
 
         // ============= small-prctice-project-05(check vowel or constant without using any fuction or built in method)=======================
-        // var  lr = prompt('Enter a signal alphabet letter like a, b, m, etc');
-        // if (lr === 'a' ||lr === 'b' ||lr === 'c' ||lr === 'd' ||lr === 'c' ||lr === 'd' ||lr === 'e' ||lr === 'f' ||lr === 'g' ||lr === 'h' ||lr === 'i' ||lr === 'j' ||lr === 'k' ||lr === 'l' ||lr === 'm' ||lr === 'n' ||lr === 'o' ||lr === 'p' ||lr === 'q' ||lr === 'r' ||lr === 's' ||lr === 't' ||lr === 'u' ||lr === 'v' ||lr === 'w' ||lr === 'x' ||lr === 'y' ||lr === 'z' ){
-        //     if (lr === 'a' || lr === 'e' || lr === 'i' || lr === 'o' || lr === 'u'){alert('it is vowel');}
-        //     else {alert('it is constant');}
-        // }
+         var  lr = prompt('Enter a signal alphabet letter like a, b, m, to z etc');
+         if (lr === 'a' ||lr === 'b' ||lr === 'c' ||lr === 'd' ||lr === 'c' ||lr === 'd' 
+            ||lr === 'e' ||lr === 'f' ||lr === 'g' ||lr === 'h' ||lr === 'i' ||lr === 'j' 
+            ||lr === 'k' ||lr === 'l' ||lr === 'm' ||lr === 'n' ||lr === 'o' ||lr === 'p' 
+            ||lr === 'q' ||lr === 'r' ||lr === 's' ||lr === 't' ||lr === 'u' ||lr === 'v' 
+            ||lr === 'w' ||lr === 'x' ||lr === 'y' ||lr === 'z' ){
+             if (lr === 'a' || lr === 'e' || lr === 'i' || lr === 'o' || lr === 'u')
+                {alert('it is vowel');}
+             else {alert('it is constant');}
+     }
 
-        // else{alert('Invalid entry');}
+         else{alert('Invalid entry');}
 
         // ============= small-prctice-project-06(simple calculator)=======================
 //        
