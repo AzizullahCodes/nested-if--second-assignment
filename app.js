@@ -39,18 +39,18 @@
         // else{alert('Invalid age');}
 
         // ============= small-prctice-project-05(check vowel or constant without using any fuction or built in method)=======================
-         var  lr = prompt('Enter a signal alphabet letter like a, b, m, to z etc');
-         if (lr === 'a' ||lr === 'b' ||lr === 'c' ||lr === 'd' ||lr === 'c' ||lr === 'd' 
-            ||lr === 'e' ||lr === 'f' ||lr === 'g' ||lr === 'h' ||lr === 'i' ||lr === 'j' 
-            ||lr === 'k' ||lr === 'l' ||lr === 'm' ||lr === 'n' ||lr === 'o' ||lr === 'p' 
-            ||lr === 'q' ||lr === 'r' ||lr === 's' ||lr === 't' ||lr === 'u' ||lr === 'v' 
-            ||lr === 'w' ||lr === 'x' ||lr === 'y' ||lr === 'z' ){
-             if (lr === 'a' || lr === 'e' || lr === 'i' || lr === 'o' || lr === 'u')
-                {alert('it is vowel');}
-             else {alert('it is constant');}
-     }
+    //      var  lr = prompt('Enter a signal alphabet letter like a, b, m, to z etc');
+    //      if (lr === 'a' ||lr === 'b' ||lr === 'c' ||lr === 'd' ||lr === 'c' ||lr === 'd' 
+    //         ||lr === 'e' ||lr === 'f' ||lr === 'g' ||lr === 'h' ||lr === 'i' ||lr === 'j' 
+    //         ||lr === 'k' ||lr === 'l' ||lr === 'm' ||lr === 'n' ||lr === 'o' ||lr === 'p' 
+    //         ||lr === 'q' ||lr === 'r' ||lr === 's' ||lr === 't' ||lr === 'u' ||lr === 'v' 
+    //         ||lr === 'w' ||lr === 'x' ||lr === 'y' ||lr === 'z' ){
+    //          if (lr === 'a' || lr === 'e' || lr === 'i' || lr === 'o' || lr === 'u')
+    //             {alert('it is vowel');}
+    //          else {alert('it is constant');}
+    //  }
 
-         else{alert('Invalid entry');}
+    //      else{alert('Invalid entry');}
 
         // ============= small-prctice-project-06(simple calculator)=======================
 //        
@@ -72,3 +72,55 @@
             // if (check === 0){if(check  === 0 && enter_number > 100){alert('Even and greater than 100');}
             // else{alert('Even and less than 100')}}
             // else{alert('No is odd');}
+
+            // ============= small-prctice-project(login system)================================= 
+        // var enter_name = prompt('Enter your name');
+        // var enter_Password = prompt('Enter your password');
+        // var name = 'abcd';
+        // var password = '1234';
+        // if (enter_name === name){alert('login successful');}
+        // else{alert('login fail')}
+
+         // ============= small-prctice-project(access allowed or denied)=================================
+    //      var age = +prompt('Enter your age');
+    //      if (age >= 18){alert('Access allowed');}
+    //      else if (age < 18){alert('Access denied');}
+    //   else {alert('Invalid Age Entry')}
+
+
+      // ============= small-prctice-project(vip access))=================================
+    //   var member = ('are you member')
+    //   var member = true;
+    //   var vip_Pass = false;
+    //   if (member){if(vip_Pass){alert('Welcome vip member');}
+    // if (member && !vip_Pass){alert('Standard member access');}}
+    // else{alert('Guests are not allowed');}
+    // var member = prompt('Are you member(yes/not)');
+    // var vip_Pass = prompt('have you vip pass(yes/not)');
+    // if (member ==='yes' && vip_Pass === 'yes'){alert('welcome vip member');}
+    //      else if( member === 'yes' && vip_Pass === 'not'){alert('standard member access');}
+    
+   
+    // else if (member === 'not'){alert('Guests are not allowed');}
+
+// ============= small-prctice-project(grade calculator))=================================
+    // var enterPercentage = prompt('Enter percentage(0 to 100)');
+    // if(enterPercentage >= 0 && enterPercentage <= 100){if (enterPercentage >= 90){alert('Grade A');}
+    // else if (enterPercentage >= 80 && enterPercentage <= 89){alert('Grade B');}
+    // else if (enterPercentage >= 70 && enterPercentage <= 89){alert('Grade C');}
+    // else if (enterPercentage >= 60 && enterPercentage <= 69){alert('Grade D');}
+    // else if (enterPercentage < 60){alert('Grade F');}
+    // }
+
+    // else{alert('not valid');}
+
+    //  ============= small-prctice-project(triangle checker)))=================================
+     var angle_1 = +prompt('Enter first triangle');
+     var angle_2 = +prompt('Enter second triangle');
+     var angle_3 = +prompt('Enter third number');
+     var addition = angle_1 + angle_2 + angle_3;
+  if(addition === 180){alert('it is triangle');}
+
+   else{alert('It is not triangle');}
+    // ============= small-prctice-project(grade calculator))=================================
+    
