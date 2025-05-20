@@ -115,12 +115,111 @@
     // else{alert('not valid');}
 
     //  ============= small-prctice-project(triangle checker)))=================================
-     var angle_1 = +prompt('Enter first triangle');
-     var angle_2 = +prompt('Enter second triangle');
-     var angle_3 = +prompt('Enter third number');
-     var addition = angle_1 + angle_2 + angle_3;
-  if(addition === 180){alert('it is triangle');}
+//      var angle_1 = +prompt('Enter first triangle');
+//      var angle_2 = +prompt('Enter second triangle');
+//      var angle_3 = +prompt('Enter third number');
+//      var addition = angle_1 + angle_2 + angle_3;
+//   if(addition === 180){alert('it is triangle');}
 
-   else{alert('It is not triangle');}
+//    else{alert('It is not triangle');}
     // ============= small-prctice-project(grade calculator))=================================
-    
+//     📝 Beginner JavaScript Assignment: Operators & Concatenation
+// 📌 Part 1: String Concatenation
+// Create two variables: firstName and lastName, and assign your name to them.
+
+// Concatenate them into a new variable fullName.
+
+// Print this message using console.log:
+// "Hello, my name is <fullName>!"
+// var firstName = 'Munir';
+// var lastName  = 'khan';
+// var fullName = firstName + ' ' + lastName ;
+// alert('Hello my name is ' + fullName);
+
+ // ============= small-prctice-project(grade calculator))=================================
+//  📌 Part 2: Familiar Operators
+// Create two number variables:
+// let a = 10;
+// let b = 3;
+// Print the result of:
+
+// a + b
+
+// a - b
+
+// a * b
+
+// a / b
+
+// a % b
+//  ans 
+
+            // let a = 10;
+            // let b = 3;
+            // var result = a + b;
+            // alert(result);
+            // var result2 = a - b;
+            // alert (result2);
+
+            // var result3 = a * b;
+            // alert(result3);
+
+            // var result4 = a / b;
+            // alert(result4);
+
+            // var result5 = a % b ;
+            // alert(result5);
+
+// ============= small-prctice-project(grade calculator))=================================
+
+// 📌 Bonus Practice (User Input)
+// Ask the user for their age using prompt() and show:
+// "You are <age> years old!"
+// (Use alert() or console.log())
+
+// ans 
+// var age = prompt('enter your age');
+// alert('you are ' + age + ' years old');
+
+// ============= small-prctice-project(grade calculator))=================================
+//  Task 1: Combine First Name, Last Name, and Age
+            // var firstName = 'Ajmal';
+            // var lastName  = 'Khan';
+            // var fullName  =  firstName + ' ' + lastName;
+            // var  age     =   28;
+            // alert('My full name is ' + fullName + ' and my age is ' + age);
+
+            // ============= small-prctice-project(grade calculator))=================================
+            // ➕ Task 2: Calculate Total Cost
+            // price = 100, quantity = 5
+// totalCost = price * quantity
+// Output: "Total cost is: 500"
+
+    // var price = 100;
+    // var quantity = 5;
+    // var totalPrice = price * quantity;
+    // alert('Total cost is: ' + totalPrice);
+
+    // ============= small-prctice-project(grade calculator))=================================
+//     🔸 4. Logical NOT (!) Operator
+// Task: Use the ! operator to check login status.
+
+// let isLoggedIn = false;
+
+// if (!isLoggedIn) {
+//   alert("User is not logged in");
+// } else {
+//   alert("User is logged in");
+// }
+
+// var kid = true;
+// if (!kid){alert('you are kid');}
+// else{alert('you are not kid');}
+
+// var beautiful = false;
+// if (beautiful === true){alert('you are  beautifu');}
+// else{alert('not beautiful')}     
+
+
+
+
