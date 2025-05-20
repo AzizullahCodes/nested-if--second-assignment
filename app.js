@@ -1,21 +1,21 @@
 // nested if second prcatice assignment
 
 // ============= small-prctice-project-01(even or odd checker)=======================
-    //  var enter_number = +prompt('Enter any number');
-    // if (enter_number > 0){var check_even = enter_number % 2;
-    //      if(check_even === 0){console.log('no is even');}
-    //     else{alert('no is odd');}
-    // }
-    //  else{console.log('Number is negative or zero');
-        
+    //   var enter_number = +prompt('Enter any number');
+    //  if (enter_number > 0){var check_even = enter_number % 2;
+    //       if(check_even === 0){console.log('no is even');}
+    //      else{alert('no is odd');}
     //  }
+    //   else{console.log('Number is negative or zero');
+        
+    //   }
 
     // ============= small-prctice-project-02(Grade calculator)=======================
-        //     var enter_Marks = +prompt('Enter marks between 0 and 100');
-        //     if (enter_Marks >= 0 && enter_Marks <= 100){if(enter_Marks >= 90){alert('Grade A');}
+        //      var enter_Marks = +prompt('Enter marks between 0 and 100');
+        //      if (enter_Marks >= 0 && enter_Marks <= 100){if(enter_Marks >= 90){alert('Grade A');}
         // else if (enter_Marks >= 80){alert('Grade B');}
-        // else if(enter_Marks >= 70){alert('Grade C');}
-        // else{alert('Fail');}}
+        //  else if(enter_Marks >= 70){alert('Grade C');}
+        //  else{alert('Fail');}}
 
         // ============= small-prctice-project-03(Assignment 3: Login System)=======================
 
@@ -73,7 +73,7 @@
             // else{alert('Even and less than 100')}}
             // else{alert('No is odd');}
 
-            // ============= small-prctice-project(login system)================================= 
+            // ============= small-prctice-project-08(login system)================================= 
         // var enter_name = prompt('Enter your name');
         // var enter_Password = prompt('Enter your password');
         // var name = 'abcd';
@@ -81,14 +81,14 @@
         // if (enter_name === name){alert('login successful');}
         // else{alert('login fail')}
 
-         // ============= small-prctice-project(access allowed or denied)=================================
+         // ============= small-prctice-project-09(access allowed or denied)=================================
     //      var age = +prompt('Enter your age');
     //      if (age >= 18){alert('Access allowed');}
     //      else if (age < 18){alert('Access denied');}
     //   else {alert('Invalid Age Entry')}
 
 
-      // ============= small-prctice-project(vip access))=================================
+      // ============= small-prctice-project-10(vip access))=================================
     //   var member = ('are you member')
     //   var member = true;
     //   var vip_Pass = false;
@@ -103,7 +103,7 @@
    
     // else if (member === 'not'){alert('Guests are not allowed');}
 
-// ============= small-prctice-project(grade calculator))=================================
+// ============= small-prctice-project-11(grade calculator))=================================
     // var enterPercentage = prompt('Enter percentage(0 to 100)');
     // if(enterPercentage >= 0 && enterPercentage <= 100){if (enterPercentage >= 90){alert('Grade A');}
     // else if (enterPercentage >= 80 && enterPercentage <= 89){alert('Grade B');}
@@ -114,7 +114,7 @@
 
     // else{alert('not valid');}
 
-    //  ============= small-prctice-project(triangle checker)))=================================
+    //  ============= small-prctice-project-12(triangle checker)))=================================
 //      var angle_1 = +prompt('Enter first triangle');
 //      var angle_2 = +prompt('Enter second triangle');
 //      var angle_3 = +prompt('Enter third number');
@@ -122,7 +122,8 @@
 //   if(addition === 180){alert('it is triangle');}
 
 //    else{alert('It is not triangle');}
-    // ============= small-prctice-project(grade calculator))=================================
+
+    // ============= small-prctice-project-13(grade calculator))=================================
 //     📝 Beginner JavaScript Assignment: Operators & Concatenation
 // 📌 Part 1: String Concatenation
 // Create two variables: firstName and lastName, and assign your name to them.
@@ -136,7 +137,7 @@
 // var fullName = firstName + ' ' + lastName ;
 // alert('Hello my name is ' + fullName);
 
- // ============= small-prctice-project(grade calculator))=================================
+ // ============= small-prctice-project-14(grade calculator))=================================
 //  📌 Part 2: Familiar Operators
 // Create two number variables:
 // let a = 10;
@@ -170,7 +171,7 @@
             // var result5 = a % b ;
             // alert(result5);
 
-// ============= small-prctice-project(grade calculator))=================================
+// ============= small-prctice-project-15(grade calculator))=================================
 
 // 📌 Bonus Practice (User Input)
 // Ask the user for their age using prompt() and show:
@@ -181,7 +182,7 @@
 // var age = prompt('enter your age');
 // alert('you are ' + age + ' years old');
 
-// ============= small-prctice-project(grade calculator))=================================
+// ============= small-prctice-project-16(grade calculator))=================================
 //  Task 1: Combine First Name, Last Name, and Age
             // var firstName = 'Ajmal';
             // var lastName  = 'Khan';
@@ -189,7 +190,7 @@
             // var  age     =   28;
             // alert('My full name is ' + fullName + ' and my age is ' + age);
 
-            // ============= small-prctice-project(grade calculator))=================================
+            // ============= small-prctice-project-17(grade calculator))=================================
             // ➕ Task 2: Calculate Total Cost
             // price = 100, quantity = 5
 // totalCost = price * quantity
@@ -200,7 +201,7 @@
     // var totalPrice = price * quantity;
     // alert('Total cost is: ' + totalPrice);
 
-    // ============= small-prctice-project(grade calculator))=================================
+    // ============= small-prctice-project-18(grade calculator))=================================
 //     🔸 4. Logical NOT (!) Operator
 // Task: Use the ! operator to check login status.
 
